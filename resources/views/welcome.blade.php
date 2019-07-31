@@ -79,7 +79,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    <!--Laravel-->
+                    林田　慎二郎
                 </div>
 
                 <div class="links">
