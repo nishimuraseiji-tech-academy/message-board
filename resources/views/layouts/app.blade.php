@@ -27,8 +27,11 @@
         </header>
         -->
         @include('commons.navbar')
-        
+
         <div class="container">
+            <!--エラーメッセージの共通化-->
+            @include('commons.error_messages')
+            
             @yield('content')
         </div>
         
